@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>EPortfolio</title>
+    <link href="https://dylan-a-cox.github.io/dylan-a-cox.github.io/feed.xml" rel="self" />
+    <link href="https://dylan-a-cox.github.io/dylan-a-cox.github.io" />
+    <updated>2026-04-07T23:17:26-04:00</updated>
+    <author>
+        <name>Dylan Cox</name>
+    </author>
+    <id>https://dylan-a-cox.github.io/dylan-a-cox.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Dylan Cox</name>
+        </author>
+        <link href="https://dylan-a-cox.github.io/dylan-a-cox.github.io/test.html"/>
+        <id>https://dylan-a-cox.github.io/dylan-a-cox.github.io/test.html</id>
+
+        <updated>2026-04-07T23:17:26-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

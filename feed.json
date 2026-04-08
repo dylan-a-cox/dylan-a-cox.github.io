@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EPortfolio",
+    "description": "",
+    "home_page_url": "https://dylan-a-cox.github.io/dylan-a-cox.github.io",
+    "feed_url": "https://dylan-a-cox.github.io/dylan-a-cox.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dylan Cox"
+    },
+    "items": [
+        {
+            "id": "https://dylan-a-cox.github.io/dylan-a-cox.github.io/test.html",
+            "url": "https://dylan-a-cox.github.io/dylan-a-cox.github.io/test.html",
+            "title": "test",
+            "author": {
+                "name": "Dylan Cox"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-07T23:17:26-04:00",
+            "date_modified": "2026-04-07T23:17:26-04:00"
+        }
+    ]
+}

@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://dylan-a-cox.github.io/test.html",
-            "url": "https://dylan-a-cox.github.io/test.html",
+            "id": "https://dylan-a-cox.github.io/test/",
+            "url": "https://dylan-a-cox.github.io/test/",
             "title": "test",
             "author": {
                 "name": "Dylan Cox"
